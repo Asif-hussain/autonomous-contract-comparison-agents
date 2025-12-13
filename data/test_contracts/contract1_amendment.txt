@@ -1,0 +1,39 @@
+AMENDMENT NO. 1 TO SERVICE AGREEMENT
+
+This Amendment is entered into as of June 1, 2024 between CLIENT CORPORATION
+and SERVICE PROVIDER INC.
+
+WHEREAS, the parties entered into a Service Agreement dated January 1, 2024;
+WHEREAS, the parties wish to modify certain terms;
+
+NOW THEREFORE, the Agreement is amended as follows:
+
+SECTION 1.0 - DEFINITIONS
+(No changes)
+
+SECTION 2.0 - PAYMENT TERMS
+2.1 Payment Schedule: Client shall pay Vendor within 45 days of invoice receipt.
+    Early Payment Discount: Client shall receive a 2% discount for payments
+    received within 15 days of invoice date.
+2.2 Payment Method: All payments shall be made via wire transfer or check
+2.3 Late Fees: Payments not received within 45 days shall incur 1.5% monthly interest
+
+SECTION 3.0 - TERM AND TERMINATION
+(No changes)
+
+SECTION 4.0 - CONFIDENTIALITY
+4.1 Confidential Information: Both parties shall maintain confidentiality of all
+    proprietary information disclosed during the term
+4.2 Duration: Confidentiality obligations shall survive for 5 years after termination
+
+SECTION 5.0 - LIMITATION OF LIABILITY
+(No changes)
+
+EXHIBIT A - SERVICE DESCRIPTION
+Vendor shall provide professional consulting services on a time and materials basis.
+Services include strategic planning, process optimization, and technology advisory.
+
+Service Level Agreement:
+- Vendor guarantees 99.9% uptime for all technology systems
+- Downtime exceeding 0.1% shall result in service credits of $1,000 per hour
+- Response time for critical issues: 2 hours

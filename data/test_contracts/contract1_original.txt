@@ -1,0 +1,30 @@
+SERVICE AGREEMENT
+
+This Service Agreement ("Agreement") is entered into as of January 1, 2024
+between CLIENT CORPORATION ("Client") and SERVICE PROVIDER INC ("Vendor").
+
+SECTION 1.0 - DEFINITIONS
+1.1 "Services" means the professional consulting services described in Exhibit A
+1.2 "Term" means the period specified in Section 3.0
+
+SECTION 2.0 - PAYMENT TERMS
+2.1 Payment Schedule: Client shall pay Vendor within 30 days of invoice receipt
+2.2 Payment Method: All payments shall be made via wire transfer or check
+2.3 Late Fees: Payments not received within 30 days shall incur 1.5% monthly interest
+
+SECTION 3.0 - TERM AND TERMINATION
+3.1 Initial Term: This Agreement shall commence on January 1, 2024 and continue
+    for a period of 12 months
+3.2 Termination for Convenience: Either party may terminate upon 30 days written notice
+
+SECTION 4.0 - CONFIDENTIALITY
+4.1 Confidential Information: Both parties shall maintain confidentiality of all
+    proprietary information disclosed during the term
+4.2 Duration: Confidentiality obligations shall survive for 2 years after termination
+
+SECTION 5.0 - LIMITATION OF LIABILITY
+5.1 Neither party shall be liable for indirect, incidental, or consequential damages
+
+EXHIBIT A - SERVICE DESCRIPTION
+Vendor shall provide professional consulting services on a time and materials basis.
+Services include strategic planning, process optimization, and technology advisory.

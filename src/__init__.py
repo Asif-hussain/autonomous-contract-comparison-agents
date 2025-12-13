@@ -1,0 +1,3 @@
+"""
+Contract Comparison System Package
+"""
