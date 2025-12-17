@@ -184,10 +184,12 @@ Provide your structural analysis and section mapping in the specified JSON forma
                 }
             )
 
-            # Call LLM for analysis via OpenRouter
+            # Call LLM for analysis
             # Using json_object response format to ensure valid JSON output
+            # Use environment variable for model to support both OpenAI and OpenRouter
+            model_name = os.getenv("MODEL_NAME", "gpt-4o")
             response = self.client.chat.completions.create(
-                model="gpt-4o",
+                model=model_name,
                 messages=[
                     {"role": "system", "content": self.system_prompt},
                     {"role": "user", "content": user_prompt}

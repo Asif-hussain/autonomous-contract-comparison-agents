@@ -389,8 +389,10 @@ def parse_contract_image(
             }
         ]
 
+        # Use environment variable for model to support both OpenAI and OpenRouter
+        model_name = os.getenv("MODEL_NAME", "gpt-4o")
         response = client.chat.completions.create(
-            model="gpt-4o",
+            model=model_name,
             messages=[
                 {
                     "role": "user",

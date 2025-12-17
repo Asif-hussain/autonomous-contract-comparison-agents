@@ -200,8 +200,10 @@ Using Agent 1's analysis above, extract the specific changes and return them in 
                 }
             )
 
+            # Use environment variable for model to support both OpenAI and OpenRouter
+            model_name = os.getenv("MODEL_NAME", "gpt-4o")
             response = self.client.chat.completions.create(
-                model="gpt-4o",
+                model=model_name,
                 messages=[
                     {"role": "system", "content": self.system_prompt},
                     {"role": "user", "content": user_prompt}
