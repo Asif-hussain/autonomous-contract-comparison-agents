@@ -4,6 +4,12 @@ An AI-powered system that automatically compares contract documents (images or P
 
 ![UI Screenshot](data/traces/main-page.png)
 
+## Demo
+
+Watch the system in action! This video demonstrates the complete workflow from uploading contract documents through the Streamlit UI to receiving structured comparison results with full Langfuse tracing.
+
+[📹 **View Live Demo**](https://drive.google.com/file/d/1c4YdvleNpbNQvkb1Xp8l-ZoZ_dYGANOF/view?usp=sharing)
+
 ## Features
 
 - **Multimodal Input**: Processes scanned images and PDFs
